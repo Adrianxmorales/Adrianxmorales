@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adrianxmorales
-- 👀 I’m interested in codiing, exercising, video games 
+- 👀 I’m interested in codiing, exercising,  
 - 🌱 I’m currently learning Java script 
 - 💞️ I’m looking to collaborate on new and intersting projects 
 
